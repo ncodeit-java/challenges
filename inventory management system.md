@@ -199,3 +199,11 @@ This diagram represents the workflow of a Java project. It shows the activities,
 ![UML Activity Diagram](https://i.ibb.co/09n75TR/uml-activity-diagram.png)
 
 This diagram represents the main flow of the program, where the `Main` class creates a new `Store`, adds two `Item` objects to the inventory, updates one of them, retrieves two items by name, and displays all items in the inventory. You can copy and paste this code into a PlantUML editor or IDE that supports PlantUML and generate an Activity Diagram.
+
+---
+#### UML Component Diagram
+
+This diagram represents the components of a Java project and their relationships. It shows the interfaces, dependencies, and associations between components.
+
+
+![UML Component Diagram](https://i.ibb.co/dGRnsTK/uml-component-diagram.png)
