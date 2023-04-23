@@ -1,3 +1,4 @@
+
 ## Project Description
 
 A basic inventory management system that can store and manage items in a store. The system should allow users to add new items, update existing items, view all items, and search for specific items by name.
@@ -26,7 +27,7 @@ Assuming that you have Eclipse IDE and Java Development Kit (JDK) installed, fol
 1.  Create a new Java project in Eclipse IDE.
 2.  Create a new package in the project and name it "inventory".
 3.  Create an Item class in the inventory package with the following code:
-```
+```java
 package inventory;
 
 public class Item {
@@ -77,7 +78,7 @@ public class Item {
 ```
 
 4.  Create a Store class in the inventory package with the following code:
-```
+```java
 package inventory;
 
 import java.util.ArrayList;
@@ -123,7 +124,7 @@ public class Store {
 
 ```
 5.  Create a Main class in the inventory package with the following code:
-``` 
+``` java
 package inventory;
 
 public class Main {
@@ -158,7 +159,7 @@ public class Main {
 ```
 
 6.  Run the Main class and observe the output in the console. It should display the following output:
-```
+```java
 Name: Milk
 Description: Fresh milk
 Price: 2.99
