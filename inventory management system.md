@@ -192,5 +192,10 @@ UML Sequence Diagram: This diagram represents the interaction between objects in
 
 ---
 #### UML Activity Diagram
+
 This diagram represents the workflow of a Java project. It shows the activities, actions, and decision points in a process, as well as the flow of control between them.
+
+
 ![UML Activity Diagram](https://i.ibb.co/09n75TR/uml-activity-diagram.png)
+
+This diagram represents the main flow of the program, where the `Main` class creates a new `Store`, adds two `Item` objects to the inventory, updates one of them, retrieves two items by name, and displays all items in the inventory. You can copy and paste this code into a PlantUML editor or IDE that supports PlantUML and generate an Activity Diagram.
