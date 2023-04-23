@@ -207,3 +207,11 @@ This diagram represents the components of a Java project and their relationships
 
 
 ![UML Component Diagram](https://i.ibb.co/dGRnsTK/uml-component-diagram.png)
+
+---
+#### UML Deployment Diagram
+
+This diagram represents the physical deployment of a Java project. It shows the hardware and software components, as well as their connections and configurations.
+
+
+![UML Component Diagram](https://i.ibb.co/j32DTGG/uml-deployment-diagram.png)
