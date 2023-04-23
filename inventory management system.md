@@ -1,9 +1,8 @@
-
-## Project Description
+## 📝 Project Description
 
 A basic inventory management system that can store and manage items in a store. The system should allow users to add new items, update existing items, view all items, and search for specific items by name.
 
-## Requirements
+## 📌 Requirements
 
 1.  The system should use a collection framework to store and manage the items.
 2.  The system should allow users to add new items to the inventory.
@@ -11,7 +10,7 @@ A basic inventory management system that can store and manage items in a store. 
 4.  The system should allow users to view all items in the inventory.
 5.  The system should allow users to search for specific items by name.
 
-## Steps to Implement the Project
+## 🚀 Steps to Implement the Project
 
 1.  Create an Item class with the following attributes: name, description, price, and quantity.
 2.  Create a Store class that contains a collection of Item objects. Use ArrayList or LinkedList to store the items.
@@ -20,13 +19,14 @@ A basic inventory management system that can store and manage items in a store. 
 5.  Implement a method in the Store class to display all items in the collection.
 6.  Implement a method in the Store class to search for items by name.
 
-## Implementation in Eclipse IDE
+## 💻 Implementation in Eclipse IDE
 
 Assuming that you have Eclipse IDE and Java Development Kit (JDK) installed, follow these steps to implement the project:
 
 1.  Create a new Java project in Eclipse IDE.
 2.  Create a new package in the project and name it "inventory".
 3.  Create an Item class in the inventory package with the following code:
+
 ```java
 package inventory;
 
