@@ -189,3 +189,8 @@ UML Class Diagram: This diagram represents the classes and their relationships i
 #### UML Sequence Diagram
 UML Sequence Diagram: This diagram represents the interaction between objects in a Java project. It shows the order of messages sent between objects and the lifeline of each object.
 ![UML Sequence Diagram](https://i.ibb.co/w0YGtx2/uml-sequence-diagram.png)
+
+---
+#### UML Activity Diagram
+This diagram represents the workflow of a Java project. It shows the activities, actions, and decision points in a process, as well as the flow of control between them.
+![UML Activity Diagram](https://i.ibb.co/09n75TR/uml-activity-diagram.png)
