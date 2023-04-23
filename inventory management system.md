@@ -179,13 +179,13 @@ Found item: Bread
 
 ```
 This project demonstrates the use of basic Core Java features such as classes, objects, collections, methods, and control structures to create a simple inventory management system. It also shows how these features can be used to perform common operations such as adding, updating, displaying, and searching for items in the inventory.
-
+---
 #### UML Class Diagram
 UML Class Diagram: This diagram represents the classes and their relationships in a Java project. It shows the attributes and methods of each class, as well as the inheritance, association, and aggregation relationships between classes.
 
 ![UML Class Diagram](https://i.ibb.co/Tq9qLP0/uml-class-diagram.png)
 
-
+---
 #### UML Sequence Diagram
 UML Sequence Diagram: This diagram represents the interaction between objects in a Java project. It shows the order of messages sent between objects and the lifeline of each object.
 ![UML Sequence Diagram](https://i.ibb.co/w0YGtx2/uml-sequence-diagram.png)
