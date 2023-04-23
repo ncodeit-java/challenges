@@ -217,7 +217,7 @@ This diagram represents the physical deployment of a Java project. It shows the 
 ![UML Component Diagram](https://i.ibb.co/j32DTGG/uml-deployment-diagram.png)
 
 ---
-#### UML Deployment Diagram
+#### UML Package Diagram
 
 This diagram represents the organization of packages in a Java project. It shows the relationships and dependencies between packages.
 
